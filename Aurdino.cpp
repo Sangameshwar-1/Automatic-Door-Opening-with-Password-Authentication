@@ -20,7 +20,7 @@ int z=0;
 LiquidCrystal_I2C lcd(0x27, lcdColumns, lcdRows);
 
 // Keypad setup
-const byte ROWS = 4;
+const byte ROWS = 4; 
 const byte COLS = 4;
 int k=0;
 int pcn=1;
