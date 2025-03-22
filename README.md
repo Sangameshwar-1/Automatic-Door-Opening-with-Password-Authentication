@@ -1,1 +1,2 @@
 _**Automatic Door Opening with Password Authentication is a security system that uses a microcontroller (e.g., Arduino or ESP32) to unlock a door when the correct password is entered via a keypad. It features real-time feedback through an LCD or LED and uses a servo motor or solenoid lock for automation.**_
+Google Drive link for Video :  https://drive.google.com/drive/folders/1v02x9CUzmr5_CoSxrCYcfP2lJvzsOOuj?usp=sharing
